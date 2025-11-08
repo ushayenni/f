@@ -47,3 +47,4 @@ onAdd={addToCart}
 );
 }
 export default App;
+//npm start
