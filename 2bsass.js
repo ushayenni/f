@@ -3,7 +3,7 @@ import "./App.css";
 import "./styles.scss";
 
 export default function App() {
-  const data = { name: "Likki", course: "FSD" };
+  const data = { name: "usha", course: "FSD" };
 
   return (
     <div>
